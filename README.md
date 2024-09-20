@@ -1,39 +1,31 @@
 <div align="center">
-    <a href="https://github.com/JheysonJhair/scientific_calculator.git">
-      <img src="public/logo.jpg" width="148px" />
+    <a href="https://github.com/JheysonJhair/app_java_scientific_calculator">
+      <img src="public/Logo.png" width="108px" />
     </a>
-    <h1>Unamba - Calculadora Cientifica</h1>
+    <h1>JhairDev - Calculadora Científica</h1>
     <p align="center">
         Full Stack Developer Jhair
     </p>
 </div>
 
-## Preview
-
 ![Preview](public/preview.png)
 
+# Calculadora Científica
 
-## Tecnologías
+Bienvenido a la **Calculadora Científica**, una aplicación avanzada diseñada para realizar cálculos matemáticos complejos, incluyendo funciones trigonométricas, logarítmicas y exponenciales, entre otras. Esta herramienta está orientada a usuarios que necesitan realizar cálculos científicos y de ingeniería de manera precisa y rápida.
 
-Este proyecto utiliza las siguientes tecnologías:
+## Tecnologías Utilizadas
 
-- Java
+- **Java**: El lenguaje principal utilizado para implementar la lógica de la aplicación.
 
-## Cómo levantar el proyecto
+---
 
-1. Clona el repositorio.
+## Instalación
 
-```bash
-git clone https://github.com/JheysonJhair/scientific_calculator.git
-```
+1. **Requisitos previos**:
+   - Tener instalado **Java JDK 17** o superior.
 
-```bash
-cd scientific_calculator
-```
-
-2. Ejecuta tu entorno de desarrollo para java y abre el proyecto
-
-
-3. Ejecuta la aplicación.
-
-¡Listo! Ahora puedes comenzar a trabajar en el Sistema sin problemas.
+2. **Clonar el repositorio**:
+   ```bash
+   git clone https://github.com/JheysonJhair/app_java_scientific_calculator
+   cd app_java_scientific_calculator

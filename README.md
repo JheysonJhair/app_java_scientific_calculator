@@ -27,5 +27,5 @@ Bienvenido a la **Calculadora Científica**, una aplicación avanzada diseñada 
 
 2. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/JheysonJhair/app_java_scientific_calculator
+   git clone https://github.com/JheysonJhair/app_java_scientific_calculator.git
    cd app_java_scientific_calculator
